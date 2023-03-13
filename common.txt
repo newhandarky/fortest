@@ -1,4 +1,10 @@
 Hello common
+<<<<<<< HEAD
 4
 5
 6 by myBranch
+=======
+1
+2
+3 by other
+>>>>>>> main
